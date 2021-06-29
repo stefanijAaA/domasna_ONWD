@@ -1,7 +1,8 @@
 module.exports = {
   siteName: 'Стефанија Дурацоска',
   siteDescription: 'Домашна работа - domasna_ONWD.',
-  siteUrl: 'https://gridsome-starter-resume.loke.dev',
+  siteUrl: 'https://stefanijAaA.github.io',
+  pathPrefix: '/domasna_ONWD',
   plugins: [
     {
       use: '@gridsome/plugin-sitemap',
