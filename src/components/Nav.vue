@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="d-block d-lg-none">Loke Carlsson</span>
+      <span class="d-block d-lg-none">Стефанија Дурацоска</span>
       <span class="d-none d-lg-block">
         <g-image
           alt="Image of Loke"
@@ -10,6 +10,7 @@
         />
       </span>
     </div>
+    <div  v-on:click.prevent="menu" class="d-block d-lg-none" id="ham_menu"> <font-awesome :icon="['fa', 'bars']"/></div>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav">
@@ -36,9 +37,26 @@
   </nav>
 </template>
 
+<script>
+
+export default {
+  name: "Nav",
+  methods: {
+    menu: function(e){
+      document.getElementById('navbarSupportedContent').classList.toggle('show')
+    }
+  }
+}
+</script>
+
+
 <style scoped lang="scss">
+#ham_menu{
+  color: #fff;
+}
 .navbar-brand,
-.nav-item {
+.nav-item,
+#ham_menu:hover {
   cursor: pointer;
 }
 

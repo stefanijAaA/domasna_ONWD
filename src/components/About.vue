@@ -9,7 +9,7 @@
         Наум Наумоски Борче 32 · Струга · Македонија
         <a
           href="mailto:name@email.com"
-        >name@email.com</a>
+        >sduracoska@gmail.com</a>
       </div>
       <p
         class="lead mb-5"
@@ -23,21 +23,15 @@
         >Github repo</a>.
       </p>
       <div class="social-icons">
-        <a href="https://linkedin.com/in/lokecarlsson" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn Profile">
-          <font-awesome :icon="['fab', 'linkedin']"/>
-        </a>
-        <a href="https://github.com/LokeCarlsson" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
+        
+        <a href="https://github.com/stefanijAaA" target="_blank" rel="noopener noreferrer" aria-label="GitHub Profile">
           <font-awesome :icon="['fab', 'github']"/>
         </a>
-        <a href="https://twitter.com/carlssonloke" target="_blank" rel="noopener noreferrer" aria-label="Twitter Profile">
-          <font-awesome :icon="['fab', 'twitter']"/>
-        </a>
-        <a href="https://www.facebook.com/carlssonloke" target="_blank" rel="noopener noreferrer" aria-label="Facebook Profile">
+        
+        <a href="https://www.facebook.com/stefanija.duracoska" target="_blank" rel="noopener noreferrer" aria-label="Facebook Profile">
           <font-awesome :icon="['fab', 'facebook']"/>
         </a>
-        <a href="https://loke.dev" target="_blank" rel="noopener noreferrer" aria-label="Loke.dev">
-          <font-awesome :icon="['fas', 'rss']"/>
-        </a>
+       
       </div>
     </div>
   </section>

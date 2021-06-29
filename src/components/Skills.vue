@@ -11,36 +11,11 @@
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'css3-alt']"/>
         </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'js-square']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'angular']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'react']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'node-js']"/>
-        </li>
+        
         <li class="list-inline-item">
           <font-awesome :icon="['fab', 'sass']"/>
         </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'less']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'wordpress']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'gulp']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'grunt']"/>
-        </li>
-        <li class="list-inline-item">
-          <font-awesome :icon="['fab', 'npm']"/>
-        </li>
+        
       </ul>
 
       <div class="subheading mb-3">Workflow</div>
