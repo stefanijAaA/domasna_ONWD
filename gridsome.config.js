@@ -1,6 +1,6 @@
 module.exports = {
-  siteName: 'Gridsome starter resume',
-  siteDescription: 'A starter project for Gridsome with Bootstrap for you to quickly build a resume.',
+  siteName: 'Стефанија Дурацоска',
+  siteDescription: 'Домашна работа - domasna_ONWD.',
   siteUrl: 'https://gridsome-starter-resume.loke.dev',
   plugins: [
     {
