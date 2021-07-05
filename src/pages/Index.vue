@@ -7,11 +7,9 @@
       <hr class="m-0">
       <Education/>
       <hr class="m-0">
-      <Skills/>
-      <hr class="m-0">
+      
       <Interests/>
-      <hr class="m-0">
-      <Awards/>
+     
     </div>
   </Layout>
 </template>
@@ -20,22 +18,18 @@
 import About from "../components/About";
 import Experience from "../components/Experience";
 import Education from "../components/Education";
-import Skills from "../components/Skills";
 import Interests from "../components/Interests";
-import Awards from "../components/Awards";
 
 export default {
   components: {
     About,
     Experience,
     Education,
-    Skills,
     Interests,
-    Awards
   },
   metaInfo: {
-    title: "Стефанија Дурацоска",
-    titleTemplate: "%s - Персонална Веб Страна"
+    title: "Stefanija Duracoska",
+    titleTemplate: "%s - Personal Web Page"
   }
 };
 </script>

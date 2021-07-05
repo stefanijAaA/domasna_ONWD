@@ -5,25 +5,21 @@
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
         <div class="resume-content">
-          <h3 class="mb-0">University of Bazqux</h3>
-          <div class="subheading mb-3">Postgraduate education in computer science</div>
-          <div>Bachelor's degree</div>
-          <p>GPA: 3.53</p>
+          <h3 class="mb-0">Faculty of Computer Science and Engeneering, Skopje</h3>
+          
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">August 2007 - May 2011</span>
+          <span class="text-primary">October 202. - Present</span>
         </div>
       </div>
 
       <div class="resume-item d-flex flex-column flex-md-row justify-content-between">
         <div class="resume-content">
-          <h3 class="mb-0">Foobar High School</h3>
-          <div class="subheading mb-3">Electical engineering</div>
-          <div>Computer science tack</div>
-          <p>GPA: 4.16</p>
+          <h3 class="mb-0">High School "Dr.Ibraim Temo", Struga</h3>
+          
         </div>
         <div class="resume-date text-md-right">
-          <span class="text-primary">August 2003 - May 2007</span>
+          <span class="text-primary">Spetember 2016 - May 2020</span>
         </div>
       </div>
     </div>
